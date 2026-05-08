@@ -1,4 +1,4 @@
-
+elite Helper for CleanMyMac X for macOS - startup-manager and menu-bar-customization is the best CleanMyMac X for macOS helper, featuring startup-manager and
 
 
 
